@@ -6,6 +6,3 @@ EĞİTMENLERİMİZ ;
 
 CİHAT ÇOBAN : https://github.com/cihatcoban
 
-BAYRAM SALMAN : https://github.com/bayram33
-
-ESMANUR DELİ: https://github.com/esmadl
